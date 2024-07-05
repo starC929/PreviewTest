@@ -1,1 +1,0 @@
-import{U as e}from"./index-BjGPYSck.js";function d(t){return e({url:"/data/UploadObjectMsg/list",method:"get",params:t})}function o(t){return e({url:"/data/UploadObjectMsg/"+t,method:"get"})}function l(t){return e({url:"/data/UploadObjectMsg",method:"put",data:t})}function r(t){return e({url:"/data/UploadObjectMsg/"+t,method:"delete"})}export{r as d,o as g,d as l,l as u};
